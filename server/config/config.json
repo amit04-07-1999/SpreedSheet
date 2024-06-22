@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "WJ28@krhps",
+    "database": "spreedsheet",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
